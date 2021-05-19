@@ -1,0 +1,48 @@
+p {
+    color: white; 
+    background: magenta;
+    }
+
+strong {
+    color: green;
+    background: red;
+    font-size: 100px;
+
+}
+
+h1 {
+    color: yellow;
+    font-size: 100px;
+}
+
+.country {
+    color: red;
+    font-size: 200px;
+}
+
+.world {
+    color: cyan;
+    font-family: fantasy;
+    font-size: 300px;
+    font-stretch: extra-expanded;
+    background-color: black;
+    background-attachment: scroll;
+}
+
+#bishkek {
+    color: red;
+
+}
+
+.kg:hover {
+background: gold;
+color: aqua;
+}
+
+.kg:active {
+    font-size: 50px;
+}
+.kg strong hover cursor { background: red}{
+    font-size: 50px;
+    color: gold;
+}
